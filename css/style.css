@@ -71,13 +71,13 @@ body{
 }
 
 .top-layer {
-  background-image: url('/assets/images/top.png');
+  background-image: url('./assets/images/top.png');
   top: 0;
   background-position: top center;
 }
 
 .bottom-layer {
-  background-image: url('/assets/images/bottom.png');
+  background-image: url('./assets/images/bottom.png');
   bottom: 0;
   background-position: bottom center;
 }
